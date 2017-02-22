@@ -8,11 +8,16 @@ Assistent: dr. sc. Toni Perković
 
 The text of the seminar (in Croatian) can be found [here](docs/Seminar.md).
 
-# Credits
+# Dependencies
 
 This application uses the Scapy library, as well as libtins and Dot11Decrypt software.
+https://github.com/secdev/scapy
+https://github.com/mfontanini/libtins
+https://github.com/mfontanini/dot11decrypt
 
-Much thanks to [SecDev](https://github.com/secdev) and [Matias Fontanini](https://github.com/mfontanini) for their contributions to the Open Source community.
+# Credits
+
+Many thanks to [SecDev](https://github.com/secdev) and [Matias Fontanini](https://github.com/mfontanini) for their contributions to the Open Source community.
 
 # License
 ## MIT License
