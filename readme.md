@@ -11,8 +11,11 @@ The text of the seminar (in Croatian) can be found [here](docs/Seminar.md).
 # Dependencies
 
 This application uses the Scapy library, as well as libtins and Dot11Decrypt software.
+
 https://github.com/secdev/scapy
+
 https://github.com/mfontanini/libtins
+
 https://github.com/mfontanini/dot11decrypt
 
 # Credits
