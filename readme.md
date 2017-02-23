@@ -3,7 +3,9 @@
 Set of tools collected for wireless traceless sniffing and traffic analysis. Done as a part of a collegium on Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture in Split (FESB). 
 
 Collegium: Wireless Network Security
+
 Professor: dr. sc. Mario Čagalj
+
 Assistent: dr. sc. Toni Perković
 
 The text of the seminar (in Croatian) can be found [here](docs/Seminar.md).

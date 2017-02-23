@@ -73,6 +73,7 @@ Aplikacija čita mrežno sučelje tražeći enkriptirani promet. Prethodno anali
 WPA2 (Wi-Fi Protected Access 2) je sigurnosna tehnologija koja danas prevladava na bežičnim mrežama. WPA2 je zamijenio originalni WPA na svom Wi-Fi hardware-u od 2006, te se bazira na IEEE 802.11i tehnološkom standardu. WPA2 utječe na brzinu mrežne konekcije (budući da ipak jest enkripcija), ali je utjecaj na brzinu obično zanemariv.
 
 WPA2 zaštita se bazira na procesu 4-way handshake-a. On je ukratko sadržan u koracima:
+
 1. AP (Access Point) šalje ANonse (AP Nonce) klijentu, koji je u biti nasumično izabrani integer.
 2. Klijent koristi ANonce i PMK (Pairwise Master Key - generiran iz PSK-a, ključa) da generira PTK (Pairwise Transient Key), i pošalje CNonce (Client Nonce) i MAC.
 3. AP šalje MAC i GTK (Group Temporal Key) klijentu.
